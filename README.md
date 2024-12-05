@@ -6,9 +6,9 @@
 
 ### 下载、安装与使用说明
 
-到 [release](https://github.com/ycrao/simple-vision-tv-client/releases) 页面下载。
+一般情况，请到 [release](https://github.com/ycrao/simple-vision-tv-client/releases) 页面下载。中国大陆地区用户，可到 [城通网盘](https://url63.ctfile.com/d/60715063-64128556-8dadb4?p=9479) (访问密码: 9479) 镜像下载。
 
-`TV-API` 后端建议自行 [下载代码](https://github.com/simple-vision/svtv-api) 部署（目前支持物理机和 `docker` 部署），可以很方便的部署到云服务商、软路由以及局域网当前电脑机器上，内置的本人的后端服务器地址根据使用情况可能于年底关闭。
+`TV-API` 后端建议自行 [下载代码](https://github.com/simple-vision/svtv-api) 部署（目前支持物理机和 `docker` 部署），可以很方便的部署到云服务商 VPS、软路由以及局域网电脑机器上，内置的本人的后端服务器地址根据使用情况可能于年底关闭。
 
 ### 更新历史
 
